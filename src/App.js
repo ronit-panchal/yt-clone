@@ -11,7 +11,11 @@ function App() {
         </p>
         <h1>Ronit Panchal</h1>
         <h2>React Developer</h2>
-        <h3>Software Developer</h3>        
+        <h3>Software Developer</h3>
+        <h4>Web Developer</h4>
+        <h4>Full Stack Developer</h4>
+        <h4>Frontend Developer</h4>
+        <h4>Backend Developer</h4>     
         <a
           className="App-link"
           href="https://reactjs.org"
